@@ -1,0 +1,5 @@
+D:\ProjectData\CS\Backup\Testing apps\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+D:\ProjectData\CS\Backup\Testing apps\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+D:\ProjectData\CS\Backup\Testing apps\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+D:\ProjectData\CS\Backup\Testing apps\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+D:\ProjectData\CS\Backup\Testing apps\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
